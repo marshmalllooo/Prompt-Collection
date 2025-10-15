@@ -43,9 +43,9 @@
 
 - **[FASHION PHOTOGRAPHY]([https://x.com/ZHO_ZHO_ZHO/status/1958539464994959715](https://x.com/CharaspowerAI/status/1977773842425643106))（by [@CharaspowerAI](https://x.com/CharaspowerAI))**
 
-<img src="images/b85994b7fc7f530e27ec78e511b83db8.png" width="300"><img src="images/a5b255f26b554e6e4d443f2c1495df42.png" width="300">
+<img src="images/assetsb85994b7fc7f530e27ec78e511b83db8.png" width="300"><img src="images/assetsa5b255f26b554e6e4d443f2c1495df42.png" width="300">
 
-<img src="images/c1dea1a2f247e7abfd9829f313c8751e.png" width="300"><img src="images/6439b254d319d6f51ffe82501d820a13.png" width="300">
+<img src="images/assetsc1dea1a2f247e7abfd9829f313c8751e.png" width="300"><img src="images/assets6439b254d319d6f51ffe82501d820a13.png.png" width="300">
 
 
 **プロンプト:**
