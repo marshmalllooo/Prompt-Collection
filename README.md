@@ -36,13 +36,19 @@
 
 ### 画像生成用プロンプト
 
-#### [FASHION PHOTOGRAPHY]([https://x.com/ZHO_ZHO_ZHO/status/1958539464994959715](https://x.com/CharaspowerAI/status/1977773842425643106))（by [@CharaspowerAI](https://x.com/CharaspowerAI)
+#### [FASHION PHOTOGRAPHY]([https://x.com/ZHO_ZHO_ZHO/status/1958539464994959715](https://x.com/CharaspowerAI/status/1977773842425643106))（by [@CharaspowerAI](https://x.com/CharaspowerAI))
+
+<img src="b85994b7fc7f530e27ec78e511b83db8.png" width="300"><img src="a5b255f26b554e6e4d443f2c1495df42.png" width="300">
+
+<img src="c1dea1a2f247e7abfd9829f313c8751e.png" width="300"><img src="6439b254d319d6f51ffe82501d820a13.png" width="300">
 
 
-  
+**プロンプト:**
+
 ```
 A full-body shot of [character or person] wearing [detailed description of outfit: pants, shoes, top, accessories], posing for a photoshoot against a white background. High-fashion streetwear, with cinematic lighting and a wide-angle, hyper-realistic photography style, resulting in an ultra-detailed image. Minimalistic style of fashion photography.
 ```
+
 
 - **和風イラスト**  
   `beautiful Japanese garden, cherry blossoms, traditional house, serene atmosphere, by Makoto Shinkai`
