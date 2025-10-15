@@ -1,5 +1,5 @@
 <div align="center">
-<img src="">
+<img src="スクリーンショット 2025-10-15 12.37.33.png" width="1100">
 </div>
 
 # 画像生成・動画生成AI用プロンプト一覧
