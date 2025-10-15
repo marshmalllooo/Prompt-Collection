@@ -1,3 +1,7 @@
+<div align="center">
+<img src="">
+</div>
+
 # 画像生成・動画生成AI用プロンプト一覧
 
 本リポジトリは、世の中で使われている様々な画像生成・動画生成AI（Stable Diffusion、Midjourney、DALL·E、RunwayML、Pika など）向けのプロンプト例をまとめたものです。  
