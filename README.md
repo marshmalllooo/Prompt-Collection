@@ -22,9 +22,10 @@
 
 - Stable Diffusion
 - Midjourney
-- DALL·E
-- RunwayML / Gen-2
-- Pika
+- nanobanana
+- seedream
+- KLING AI
+- Sora2
 - その他
 
 ---
@@ -36,7 +37,7 @@
 
 ### 画像生成用プロンプト
 
-#### [FASHION PHOTOGRAPHY]([https://x.com/ZHO_ZHO_ZHO/status/1958539464994959715](https://x.com/CharaspowerAI/status/1977773842425643106))（by [@CharaspowerAI](https://x.com/CharaspowerAI))
+- **[FASHION PHOTOGRAPHY]([https://x.com/ZHO_ZHO_ZHO/status/1958539464994959715](https://x.com/CharaspowerAI/status/1977773842425643106))（by [@CharaspowerAI](https://x.com/CharaspowerAI))**
 
 <img src="b85994b7fc7f530e27ec78e511b83db8.png" width="300"><img src="a5b255f26b554e6e4d443f2c1495df42.png" width="300">
 
@@ -50,31 +51,12 @@ A full-body shot of [character or person] wearing [detailed description of outfi
 ```
 
 
-- **和風イラスト**  
-  `beautiful Japanese garden, cherry blossoms, traditional house, serene atmosphere, by Makoto Shinkai`
-
-#### Midjourney
-- **サイバーパンク都市**  
-  `cyberpunk cityscape at night, neon lights, rainy streets, highly detailed, --v 5 --ar 16:9`
-
-- **リアルな猫の肖像**  
-  `ultra realistic portrait of a cat, studio lighting, 8k, --v 5 --ar 1:1`
-
-#### DALL·E
-- **シュールなイラスト**  
-  `an elephant riding a bicycle through a field of sunflowers, surreal style`
 
 ---
 
 ### 動画生成用プロンプト
 
-#### RunwayML / Gen-2
-- **SF映画風イントロ**  
-  `A spaceship flies over a futuristic city, dramatic lighting, cinematic`
 
-#### Pika
-- **ダンスシーン**  
-  `A group of people dancing in a neon-lit club, energetic, slow motion`
 
 ---
 
